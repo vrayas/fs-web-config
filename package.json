@@ -1,0 +1,24 @@
+{
+  "name": "fs-web-config",
+  "version": "1.0.0",
+  "description": "Factory services web config UI",
+  "main": "index.js",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrayas/fs-web-config.git"
+  },
+  "author": "Lalita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrayas/fs-web-config/issues"
+  },
+  "homepage": "https://github.com/vrayas/fs-web-config#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
